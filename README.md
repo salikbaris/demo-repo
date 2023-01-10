@@ -1,4 +1,4 @@
 # Demo
 
-Some text\n
+Some text
 Some text more
